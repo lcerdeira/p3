@@ -7,6 +7,9 @@ import store from './store';
 import Routes from './components/routing/Routes';
 import Navbar from './components/layout/Navbar';
 import Login from './components/auth/Login';
+import TopNavigation from './components/topNavigation';
+import SideNavigation from './components/sideNavigation';
+import Footer from './components/Footer';
 import './App.css';
 
 if (localStorage.token) {
