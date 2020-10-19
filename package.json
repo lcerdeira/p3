@@ -1,7 +1,7 @@
 {
-  "name": "biodash-server",
+  "name": "server",
   "version": "1.0.0",
-  "description": "Backend Bioinformatic Genomic Dashboard",
+  "description": "Server Travel",
   "main": "server.js",
   "scripts": {
     "start": "node server",

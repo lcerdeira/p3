@@ -4,7 +4,7 @@ const connectDB = async () => {
   try {
     if (process.env.NODE_ENV === 'production') {
       await mongoose.connect(
-        `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.uayww.mongodb.net/biodash?retryWrites=true&w=majority`,
+        `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@devconnector-l78xb.mongodb.net/tgr?retryWrites=true&w=majority`,
         {
           useNewUrlParser: true,
           useUnifiedTopology: true,
@@ -14,7 +14,7 @@ const connectDB = async () => {
       );
       console.log('MongoDB Atlas Connected');
     } else {
-      await mongoose.connect('mongodb://localhost:27017/biodash', {
+      await mongoose.connect('mongodb://localhost:27017/tgr', {
         useNewUrlParser: true,
         useUnifiedTopology: true,
         useCreateIndex: true,
