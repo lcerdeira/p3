@@ -1,17 +1,63 @@
-# Thailand Travel Guide Dashboard & Back End
+# Personal travel guide
+  
+  ![Code Count](https://img.shields.io/github/languages/count/lcerdeira/biodash) 
+  ![Main Code Base](https://img.shields.io/github/languages/top/lcerdeira/biodash) 
+  ![License](https://img.shields.io/badge/license-MIT-blue) 
+  ![Version](https://img.shields.io/badge/version-1.0-red) 
+  ![Last Commit](https://img.shields.io/github/last-commit/lcerdeira/biodash) 
+  ![Open Issues](https://img.shields.io/github/issues-raw/lcerdeira/biodash) 
+  ![Repo Size](https://img.shields.io/github/repo-size/lcerdeira/biodash)
 
-Dashboard & back end developed using MERN stack for my React Native mobile app
+  ## Table of Contents
 
-Libraries used for the dashboard are React, Redux, Redux Thunk, React Router, Axios, Materialize
+  * [Description](#Description)
+  * [Demonstration](#Demonstration)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributions](#Contributions)
+  * [Version](#Version)
+  * [Tests](#Tests)
+  * [Questions](#Questions)
 
-Libraries used for the back end are Express, Mongoose, Express Fileupload, Express Validator, Bcryptjs, Jsonwebtoken
 
-[Heroku Demo](https://tgradmin.herokuapp.com/)
+  ## Description
 
-User: admin@example.com
+ 
 
-Password: 123456
+  ## Installation
 
-![alt text](https://raw.githubusercontent.com/keremcanb/thailand-travel-guide-dashboard-backend-mern-stack/master/public/ss1.jpg)
 
-![alt text](https://raw.githubusercontent.com/keremcanb/thailand-travel-guide-dashboard-backend-mern-stack/master/public/ss2.jpg)
+  ## Demonstration
+
+  Access the live application [here](https://tgradmin.herokuapp.com).
+  
+  Login details
+
+  User: admin@example.com
+  Password: 123456
+    
+  ## License
+
+  ![License Badge](https://img.shields.io/badge/license-MIT-blue)
+
+  ## Contributions
+
+  If you would like to add new features, make improvements or bug fixes, please make a pull request. I will review it and merge it into the application as necessary.
+
+  ## Version
+
+  ![Version Badge](https://img.shields.io/badge/version-1.0-red)
+
+
+  ## Tests
+
+  N/A
+
+  ## Questions
+
+  Please contact me via github or email:
+
+  https://github.com/lcerdeira 
+
+  lcerdeira@gmail.com
