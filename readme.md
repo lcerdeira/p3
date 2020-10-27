@@ -23,7 +23,7 @@
 
   ## Description
 
- 
+  TGR is a MERN stack application that allows users to create personal travel guides. This app enables users to search for a particular place, add or delete    these   places and also create a category to organize their travel guides.
 
   ## Installation
 
